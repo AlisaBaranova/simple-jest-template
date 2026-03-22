@@ -2,7 +2,7 @@ import {DepositContract} from "../src/DepositContract";
 import {LoanContract} from "../src/LoanContract";
 import {InsuranceContract} from "../src/InsuranceContract";
 import {BaseContract} from "../src/BaseContract";
-// testing commits....
+// testing commits...
 describe ("check info in contracts", () => {
     let userBase: BaseContract;
     let user: DepositContract;
